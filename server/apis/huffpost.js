@@ -1,0 +1,1 @@
+var clog = require('simpleclog');
